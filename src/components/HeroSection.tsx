@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-interior.jpg";
 
 const HeroSection = () => {
-  const phoneNumber = "+919876543210"; // Replace with actual phone number
+  const phoneNumber = "+919656668222"; // Replace with actual phone number
   
   const handleCall = () => {
     window.location.href = `tel:${phoneNumber}`;

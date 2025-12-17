@@ -14,7 +14,7 @@ const ContactSection = () => {
   });
 
   // 🔴 BUSINESS WHATSAPP NUMBER (with country code, no +)
-  const BUSINESS_PHONE = "919876543210";
+  const BUSINESS_PHONE = "919656668222";
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
@@ -103,7 +103,7 @@ Message: ${formData.message || "No message"}
                     href="tel:+919876543210"
                     className="text-muted-foreground hover:text-primary transition-colors font-body"
                   >
-                    +91 98765 43210
+                    +919656668222
                   </a>
                 </div>
               </div>
