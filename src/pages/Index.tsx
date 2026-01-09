@@ -21,7 +21,7 @@ const Index = () => {
       <ContactSection />
       <Footer />
       <WhatsAppButton />
-      <BlockingPaymentModal />
+      {/* <BlockingPaymentModal /> */}
     </main>
   );
 };
